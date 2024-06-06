@@ -11,7 +11,7 @@ public class Driver  {
 	static List<PCB> gantChart = new ArrayList<>();
 	static int processID = 0;
     static int currentTime = 0;
-    static boolean terminated = true;
+    static boolean terminated = true;//i think no need for this boolean variable
     
 	public static void main(String[] args) {
 
