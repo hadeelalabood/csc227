@@ -1,4 +1,4 @@
-# csc227 project
+# Multilevel Queue (MLQ) scheduling algorithm 
 I. Problem Statement 
 This project will involve implementing a Multilevel Queue (MLQ) scheduling algorithm with two queues, 
 queue numbered as Q1 and queue numbered as Q2 with specific assigned priority for each queue (Q1 has 
